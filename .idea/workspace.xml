@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a5d862f-99cd-4543-a772-8e7ab13a8b4b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="structure.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classes/structure.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="653">
+              <caret line="943" column="24" lean-forward="true" selection-start-line="943" selection-start-column="24" selection-end-line="943" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requestAbs.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requestAbs.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="export_form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/export_form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="export.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/export.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="help.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/help.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="653">
+              <caret line="2317" selection-start-line="2317" selection-end-line="2317" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="USER MANUAL.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/USER MANUAL.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2259" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tempmerge.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tempmerge.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1598">
+              <caret line="94" column="43" selection-start-line="94" selection-start-column="43" selection-end-line="94" selection-end-column="43" />
+              <folding>
+                <element signature="e#6#57#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="renderables.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/renderables.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2176">
+              <caret line="141" column="48" selection-start-line="141" selection-start-column="48" selection-end-line="141" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sessions_page_params.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/sessions_page_params.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>temp</find>
+      <find>tempuser</find>
+      <find>mform</find>
+      <find>som3a</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/version.php" />
+        <option value="$PROJECT_DIR$/lang/en/attendance.php" />
+        <option value="$PROJECT_DIR$/classes/structure.php" />
+        <option value="$PROJECT_DIR$/renderables.php" />
+        <option value="$PROJECT_DIR$/help.php" />
+        <option value="$PROJECT_DIR$/requestAbs.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="52" />
+    <option name="y" value="15" />
+    <option name="width" value="1750" />
+    <option name="height" value="985" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="attendance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="attendance" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="attendance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="attendance" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="attendance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="attendance" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="en" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="db" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/db" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.db" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a5d862f-99cd-4543-a772-8e7ab13a8b4b" name="Default" comment="" />
+      <created>1523581389251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523581389251</updated>
+      <workItem from="1523581392265" duration="3176000" />
+      <workItem from="1523663833411" duration="598000" />
+      <workItem from="1523713777823" duration="16714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20488000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16536458" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16536458" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://PHP/C:/xampp/htdocs/moodle-3.4.2-0/apps/moodle/htdocs/mod/attendance">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="0.0" y="1020.0">\attendance_report_data</node>
+            <node x="1240.0" y="1590.0">\mod_attendance_mod_form</node>
+            <node x="1405.0" y="1404.0">\tempedit_form</node>
+            <node x="258.0" y="1020.0">\attendance_tabs</node>
+            <node x="260.0" y="1404.0">\attendance_password_icon</node>
+            <node x="511.0" y="1404.0">\attendance_default_statusset</node>
+            <node x="244.0" y="1730.0">$PROJECT_DIR$/classes</node>
+            <node x="1069.0" y="0.0">\attendance_filter_controls</node>
+            <node x="671.0" y="1730.0">$PROJECT_DIR$/pix</node>
+            <node x="1445.0" y="1020.0">\attendance_set_selector</node>
+            <node x="0.0" y="1730.0">$PROJECT_DIR$/templates</node>
+            <node x="0.0" y="0.0">\mod_attendance_renderer</node>
+            <node x="995.0" y="1590.0">\mod_attendance_duration_form</node>
+            <node x="1127.0" y="1404.0">\url_helpers</node>
+            <node x="503.0" y="1020.0">\attendance_user_data</node>
+            <node x="470.0" y="1730.0">$PROJECT_DIR$/tests</node>
+            <node x="764.0" y="1730.0">$PROJECT_DIR$/yui</node>
+            <node x="597.0" y="0.0">\user_sessions_cells_generator</node>
+            <node x="856.0" y="1730.0">$PROJECT_DIR$/db</node>
+            <node x="571.0" y="1730.0">$PROJECT_DIR$/lang</node>
+            <node x="218.0" y="1590.0">\mod_attendance_student_attendance_form</node>
+            <node x="129.0" y="1730.0">$PROJECT_DIR$/backup</node>
+            <node x="357.0" y="1730.0">$PROJECT_DIR$/import</node>
+            <node x="1187.0" y="1020.0">\attendance_manage_data</node>
+            <node x="760.0" y="1590.0">\mod_attendance_export_form</node>
+            <node x="721.0" y="1020.0">\mod_wsattendance_external</node>
+            <node x="522.0" y="1590.0">\mod_attendance_update_form</node>
+            <node x="780.0" y="411.0">\user_sessions_cells_text_generator</node>
+            <node x="755.0" y="1404.0">\mod_attendance_add_form</node>
+            <node x="1465.0" y="1590.0">\tempmerge_form</node>
+            <node x="0.0" y="1404.0">\attendance_preferences_data</node>
+            <node x="448.0" y="345.0">\user_sessions_cells_html_generator</node>
+            <node x="0.0" y="1590.0">\temp_form</node>
+            <node x="1288.0" y="0.0">\attendance_take_data</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\user_sessions_cells_text_generator" target="\user_sessions_cells_generator">
+              <point x="0.0" y="-48.0" />
+              <point x="902.0" y="320.0" />
+              <point x="831.0" y="320.0" />
+              <point x="78.0" y="147.5" />
+            </edge>
+            <edge source="\user_sessions_cells_html_generator" target="\user_sessions_cells_generator">
+              <point x="0.0" y="-114.0" />
+              <point x="604.0" y="320.0" />
+              <point x="675.0" y="320.0" />
+              <point x="-78.0" y="147.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8490725126475547" x="54.0" y="1371.0" />
+          <SelectedNodes>
+            <node>\attendance_set_selector</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\mod_attendance_take_page_params">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\mod_attendance_take_page_params</OriginalElement>
+          <nodes>
+            <node x="" y="">\mod_attendance_take_page_params</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="112.0" y="170.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/C:/xampp/htdocs/moodle-3.4.2-0/apps/moodle/htdocs/mod/attendance/classes">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$/classes</OriginalElement>
+          <nodes>
+            <node x="646.0" y="0.0">\mod_attendance_page_with_filter_controls</node>
+            <node x="0.0" y="1419.0">\mod_attendance_take_page_params</node>
+            <node x="864.0" y="1419.0">\mod_attendance_header</node>
+            <node x="1430.0" y="1419.0">\attendance_handler</node>
+            <node x="0.0" y="0.0">\mod_attendance_structure</node>
+            <node x="911.0" y="630.5">\mod_attendance_view_page_params</node>
+            <node x="960.0" y="1803.0">$PROJECT_DIR$/classes/task</node>
+            <node x="1116.0" y="1419.0">\mod_attendance_notifyqueue</node>
+            <node x="268.0" y="1419.0">\mod_attendance_preferences_page_params</node>
+            <node x="753.0" y="1803.0">$PROJECT_DIR$/classes/event</node>
+            <node x="268.0" y="1803.0">\mod_attendance_observer</node>
+            <node x="576.0" y="1419.0">\mod_attendance_sessions_page_params</node>
+            <node x="530.0" y="1803.0">$PROJECT_DIR$/classes/import</node>
+            <node x="1181.0" y="0.0">\mod_attendance_summary</node>
+            <node x="657.0" y="609.0">\mod_attendance_report_page_params</node>
+            <node x="393.0" y="675.0">\mod_attendance_manage_page_params</node>
+            <node x="858.0" y="1803.0">$PROJECT_DIR$/classes/form</node>
+            <node x="643.0" y="1803.0">$PROJECT_DIR$/classes/search</node>
+            <node x="0.0" y="1803.0">\mod_attendance_add_warning_form</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\mod_attendance_manage_page_params" target="\mod_attendance_page_with_filter_controls">
+              <point x="0.0" y="-48.5" />
+              <point x="515.0" y="584.0" />
+              <point x="688.6666666666666" y="584.0" />
+              <point x="-85.33333333333337" y="279.5" />
+            </edge>
+            <edge source="\mod_attendance_view_page_params" target="\mod_attendance_page_with_filter_controls">
+              <point x="0.0" y="-93.0" />
+              <point x="1023.5" y="584.0" />
+              <point x="859.3333333333333" y="584.0" />
+              <point x="85.33333333333326" y="279.5" />
+            </edge>
+            <edge source="\mod_attendance_report_page_params" target="\mod_attendance_page_with_filter_controls">
+              <point x="0.0" y="-114.5" />
+              <point x="0.0" y="279.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7644610458911418" x="170.0" y="1464.0" />
+          <SelectedNodes>
+            <node>\mod_attendance_take_page_params</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/install.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2013" />
+      </provider>
+    </entry>
+    <entry file="uml://PHP/C:/xampp/htdocs/moodle-3.4.2-0/apps/moodle/htdocs/mod/attendance/db">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>$PROJECT_DIR$/db</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="595.0" y="342.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/generator/lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/attendance_password_icon.mustache">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pix/icon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import/sessions.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/access.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1846" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/events.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/tasks.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/message.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/upgrade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2210">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/version.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/upgradelib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lang/en/attendance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7820">
+          <caret line="473" column="47" selection-start-line="473" selection-start-column="42" selection-end-line="473" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/sessions_page_params.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2176">
+          <caret line="141" column="48" selection-start-line="141" selection-start-column="48" selection-end-line="141" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tempmerge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="43" selection-start-line="94" selection-start-column="43" selection-end-line="94" selection-end-column="43" />
+          <folding>
+            <element signature="e#6#57#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/USER MANUAL.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/help.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="2317" selection-start-line="2317" selection-end-line="2317" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/export_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requestAbs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/export.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/structure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="943" column="24" lean-forward="true" selection-start-line="943" selection-start-column="24" selection-end-line="943" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
